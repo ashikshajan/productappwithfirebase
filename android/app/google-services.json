@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "447226232571",
+    "project_id": "techwarelabs-cf44c",
+    "storage_bucket": "techwarelabs-cf44c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447226232571:android:dcf9b3fd4f695e45773a5e",
+        "android_client_info": {
+          "package_name": "com.test.techware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447226232571-1omjsa0fb5gf54ais16uu384r8ml16g6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.techware",
+            "certificate_hash": "1cf97ee3bffdbe49137686eb1bdd343358739f16"
+          }
+        },
+        {
+          "client_id": "447226232571-i98anmp85hrequqo0o2aabtr39cjmvme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDPQ1V-C8n7ATs93WUrQaXZ44jIOpejK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447226232571-i98anmp85hrequqo0o2aabtr39cjmvme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
